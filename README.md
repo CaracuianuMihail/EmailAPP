@@ -11,7 +11,7 @@ The project consists of two main files:
 - Python modules:  
 `tkinter, smtplib, imaplib, poplib, email`
 
-#Installation 🛠️
+## Installation 🛠️
 Clone the repository
 
 #Configuration ⚡
@@ -25,7 +25,7 @@ EMAIL = "your_email@gmail.com"  # Replace with your email
 PASSWORD = "app_specific_password"  # Use an app-specific password
 `
 
-#Usage 🖥️
+## Usage 🖥️
 Send Email ✉️
 Select the 📤 Send Email tab.
 Fill in the fields:
@@ -52,11 +52,11 @@ Click 🔄 Refresh to update.
 If no emails exist, you will see "Inbox POP3 is empty".
 The latest 5 emails with attachments appear in the table.
 
-#Attachment Management 📎
+## Attachment Management 📎
 Received files are automatically saved in the attachments folder.
 File locations are shown in the File column of the tables.
 
-#Limitations 🚧
+## Limitations 🚧
 Works only with Gmail accounts.
 Emails are displayed in plain text format only.
 Limited to 5 emails for POP3 and 20 for IMAP.
