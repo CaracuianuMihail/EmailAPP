@@ -21,7 +21,7 @@ Turn on "Allow less secure apps"
 
 2.  Update authentication credentials in the code:
 `
-EMAIL = "your_email@gmail.com"  # Replace with your email
+EMAIL = "your_email@gmail.com"  # Replace with your email \n
 PASSWORD = "app_specific_password"  # Use an app-specific password
 `
 
