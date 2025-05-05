@@ -10,8 +10,8 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 
-EMAIL = "caracuianu.mihail@gmail.com"
-PASSWORD = "poad tomm fmti tfbz"
+EMAIL = "Your EMAIL HERE"
+PASSWORD = "Your Password HERE"
 
 filename = None 
 
